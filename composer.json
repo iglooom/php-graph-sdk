@@ -1,5 +1,5 @@
 {
-    "name": "facebook/graph-sdk",
+    "name": "iglooom/graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
@@ -17,7 +17,7 @@
     "require-dev": {
         "phpunit/phpunit": "~4.0",
         "mockery/mockery": "~0.8",
-        "guzzlehttp/guzzle": "~5.0"
+        "guzzlehttp/guzzle": "*"
     },
     "suggest": {
         "paragonie/random_compat": "Provides a better CSPRNG option in PHP 5",
